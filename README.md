@@ -1,2 +1,1 @@
-# rocket-css-animation
-Rocket CSS Animation
+# Rocket CSS Animation
